@@ -118,7 +118,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227371/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227391/index.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228075/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227938/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
@@ -225,7 +225,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227369/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227351/index.m3u8
@@ -309,3 +309,4 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227961/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227149/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227189/index.m3u8
+
