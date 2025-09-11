@@ -303,3 +303,10 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227961/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227149/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227189/index.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227981/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227984/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227986/index.m3u8
+
