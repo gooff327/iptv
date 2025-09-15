@@ -1,21 +1,21 @@
 央视频道,#genre#
-CCTV-1,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
-CCTV-2,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
-CCTV-3,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
-CCTV-4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
-CCTV-5,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8
-CCTV-5+,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8
-CCTV-6,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227431/index.m3u8
-CCTV-7,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227429/index.m3u8
-CCTV-8,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227427/index.m3u8
-CCTV-9,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227425/index.m3u8
-CCTV-10,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227375/index.m3u8
-CCTV-11,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227922/index.m3u8
-CCTV-12,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227377/index.m3u8
-CCTV-13,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227926/index.m3u8
-CCTV-14,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8
-CCTV-15,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
-CCTV-17,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
+CCTV-1 综合,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
+CCTV-2 财经,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
+CCTV-3 综艺,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
+CCTV-4 中文国际,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
+CCTV-5 体育,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8
+CCTV-5+ 体育赛事,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8
+CCTV-6 电影,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227431/index.m3u8
+CCTV-7 国防军事,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227429/index.m3u8
+CCTV-8 电视剧,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227427/index.m3u8
+CCTV-9 纪录,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227425/index.m3u8
+CCTV-10 科教,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227375/index.m3u8
+CCTV-11 戏曲,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227922/index.m3u8
+CCTV-12 社会与法,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227377/index.m3u8
+CCTV-13 新闻,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227926/index.m3u8
+CCTV-14 少儿,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8
+CCTV-15 音乐,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
+CCTV-17 农业农村,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
 
 卫视频道,#genre#
 四川卫视,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
@@ -81,4 +81,5 @@ CETV1,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
 CETV2,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227940/index.m3u8
 CETV4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227337/index.m3u8
 CETV4,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228104/index.m3u8
+
 
